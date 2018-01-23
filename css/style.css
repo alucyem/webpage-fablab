@@ -931,6 +931,7 @@ input[type="text"] {
 .fh5co-social-icons {
   margin: 0;
   padding: 0;
+  display: center;
 }
 .fh5co-social-icons li {
   margin: 0;
